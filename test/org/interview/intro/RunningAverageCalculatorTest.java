@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class RunningAverageCalculatorTest {
     @Test
-    public void uourFirstTestGoesHere() {
+    public void yourFirstTestGoesHere() {
 
     }
 }
